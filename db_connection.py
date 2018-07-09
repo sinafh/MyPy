@@ -4,9 +4,9 @@ import psycopg2
 
 
 DATABASE_CONFIG = {
-    'host': 'server2',
+    'host': 'server',
     'database': 'postgres',
-    'user': 'sina13890',
+    'user': 'postgres',
     'port': 3306
 }
 
